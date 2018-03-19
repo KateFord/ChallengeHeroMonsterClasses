@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ChallengeHeroMonsterClassesPart1.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ChallengeHeroMonsterClasses.Global" Language="C#" %>

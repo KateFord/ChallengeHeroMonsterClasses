@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace ChallengeHeroMonsterClassesPart1
+namespace ChallengeHeroMonsterClasses
 {
     public class Global : System.Web.HttpApplication
     {
