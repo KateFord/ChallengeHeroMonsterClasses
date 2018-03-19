@@ -13,7 +13,7 @@ namespace ChallengeHeroMonsterClasses
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            // Create a Character class object 
+            // Create a Character class object .....
             Character hero = new Character(); 
             hero.Name = "Hero";
             hero.Health = 40;
